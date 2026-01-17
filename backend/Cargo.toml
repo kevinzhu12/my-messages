@@ -1,5 +1,5 @@
 [package]
-name = "imessage-backend"
+name = "mymessages-backend"
 version = "0.1.0"
 edition = "2021"
 
